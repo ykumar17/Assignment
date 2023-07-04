@@ -1,5 +1,7 @@
 # Assignment
 
-This is the final assignment of the Tools for Data Science course.
+This repository is for assignments of Data Science Course
 
-Assignment name is: Create and Share Your Jupyter Notebook
+Assignment1(Data Science Ecosystem): Create and Share Your Jupyter Notebook
+
+Assignment2(Python project for Data Science): Extracting and Visualizing Stock Data
